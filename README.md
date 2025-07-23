@@ -8,3 +8,6 @@ pyBigWig
 ruptures
 argparse
 
+Command for running the script:
+
+python3 PTTseek.py -b your_bigwig_file -i your_bed_file -o output_file.tsv --bin 10 --min-length 100
